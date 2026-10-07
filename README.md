@@ -1,4 +1,4 @@
-# iOS Style Planner 📅
+# iOS Style Planner 
 
 > **A minimalist planner inspired by the iOS design language.**
 
@@ -8,22 +8,22 @@ The project focuses on **simplicity, usability and a polished user experience** 
 
 ---
 
-## ✨ Overview
+##  Overview
 
 The goal of this project is to create a simple planner interface that feels familiar to users of modern mobile productivity applications.
 
 The design focuses on:
 
-* 🎨 Clean and minimal UI
-* 📱 iOS-inspired visual language
-* 🧭 Simple navigation and interactions
-* 📐 Responsive web experience
-* ⚡ Lightweight implementation
-* 👌 Focus on usability
+*  Clean and minimal UI
+*  iOS-inspired visual language
+*  Simple navigation and interactions
+*  Responsive web experience
+*  Lightweight implementation
+*  Focus on usability
 
 ---
 
-## 🎯 Project Goals
+##  Project Goals
 
 This project was created to explore how a familiar mobile-inspired design approach can be translated into a web application.
 
@@ -38,7 +38,7 @@ The main objectives are:
 
 ---
 
-## 🛠️ Technologies
+##  Technologies
 
 The project is intentionally lightweight and currently consists of a single HTML entry point.
 
@@ -51,7 +51,7 @@ The project is intentionally lightweight and currently consists of a single HTML
 
 ## 📸 Screenshots
 
-### 🎨 Themes
+###  Themes
 
 Different visual themes are available to personalize the planner experience.
 
@@ -61,7 +61,7 @@ Different visual themes are available to personalize the planner experience.
 
 ---
 
-### ➕ Add Task
+###  Add Task
 
 A simple and intuitive interface for creating and organizing tasks.
 
@@ -71,7 +71,7 @@ A simple and intuitive interface for creating and organizing tasks.
 
 ---
 
-### 📅 Weekly Planner
+###  Weekly Planner
 
 A weekly view designed to help users visualize and organize their schedule.
 
@@ -81,7 +81,7 @@ A weekly view designed to help users visualize and organize their schedule.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 ios-style-planner/
@@ -97,7 +97,7 @@ ios-style-planner/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 No installation or build process is required.
 
@@ -121,7 +121,7 @@ You can also use a local development server such as **VS Code Live Server**.
 
 ---
 
-## 🎨 Design Inspiration
+##  Design Inspiration
 
 The interface takes inspiration from design principles commonly associated with Apple's iOS ecosystem:
 
@@ -137,7 +137,7 @@ The project is an independent design and development project and is **not affili
 
 ---
 
-## 📱 Responsive Design
+##  Responsive Design
 
 The planner is designed as a web interface with a mobile-inspired experience while remaining suitable for modern desktop and mobile browsers.
 
@@ -145,7 +145,7 @@ The interface focuses on maintaining a clean layout and accessible interactions 
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 Possible future improvements include:
 
@@ -162,9 +162,9 @@ Possible future improvements include:
 
 ---
 
-## 📌 Project Status
+##  Project Status
 
-🟢 **Active personal project**
+ **Active personal project**
 
 The current version focuses on the planner interface, visual experience and core frontend interactions.
 
@@ -172,7 +172,7 @@ The project may evolve with additional productivity features and UI improvements
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Fadwa Dhmaid**
 
@@ -183,10 +183,10 @@ Software Engineer & AI Developer
 
 ---
 
-## 📄 License
+##  License
 
 This project is currently developed as a personal project.
 
 ---
 
-⭐ **If you like the project, feel free to explore the repository and follow its development.**
+ **If you like the project, feel free to explore the repository and follow its development.**
